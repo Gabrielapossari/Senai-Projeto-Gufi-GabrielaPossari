@@ -14,7 +14,6 @@ namespace Senai.Gufi.WebApi.Domains
         public string NomeUsuario { get; set; }
         public string Email { get; set; }
         public string Senha { get; set; }
-        public string Genero { get; set; }
         public DateTime DataNascimento { get; set; }
         public int? IdTipoUsuario { get; set; }
 

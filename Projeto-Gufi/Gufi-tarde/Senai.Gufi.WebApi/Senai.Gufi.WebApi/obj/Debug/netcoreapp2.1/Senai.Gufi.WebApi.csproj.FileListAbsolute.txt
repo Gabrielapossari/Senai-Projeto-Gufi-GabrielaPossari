@@ -26,3 +26,17 @@ C:\Users\fic\Desktop\senai-backend-senatur-GabrielaP-LucasP\StoryTelling-PROJETO
 C:\Users\fic\Desktop\senai-backend-senatur-GabrielaP-LucasP\StoryTelling-PROJETO2020\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorTargetAssemblyInfo.cache
 C:\Users\fic\Desktop\senai-backend-senatur-GabrielaP-LucasP\StoryTelling-PROJETO2020\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.dll
 C:\Users\fic\Desktop\senai-backend-senatur-GabrielaP-LucasP\StoryTelling-PROJETO2020\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.pdb
+C:\Users\fic\Desktop\Projeto Gufi\Projeto-Gufi\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.deps.json
+C:\Users\fic\Desktop\Projeto Gufi\Projeto-Gufi\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.runtimeconfig.json
+C:\Users\fic\Desktop\Projeto Gufi\Projeto-Gufi\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Projeto Gufi\Projeto-Gufi\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.dll
+C:\Users\fic\Desktop\Projeto Gufi\Projeto-Gufi\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\bin\Debug\netcoreapp2.1\Senai.Gufi.WebApi.pdb
+C:\Users\fic\Desktop\Projeto Gufi\Projeto-Gufi\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Projeto Gufi\Projeto-Gufi\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Projeto Gufi\Projeto-Gufi\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorAssemblyInfo.cache
+C:\Users\fic\Desktop\Projeto Gufi\Projeto-Gufi\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorAssemblyInfo.cs
+C:\Users\fic\Desktop\Projeto Gufi\Projeto-Gufi\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Projeto Gufi\Projeto-Gufi\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.AssemblyInfo.cs
+C:\Users\fic\Desktop\Projeto Gufi\Projeto-Gufi\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\fic\Desktop\Projeto Gufi\Projeto-Gufi\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.dll
+C:\Users\fic\Desktop\Projeto Gufi\Projeto-Gufi\Gufi-tarde\Senai.Gufi.WebApi\Senai.Gufi.WebApi\obj\Debug\netcoreapp2.1\Senai.Gufi.WebApi.pdb

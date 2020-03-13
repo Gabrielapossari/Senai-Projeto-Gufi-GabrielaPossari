@@ -38,6 +38,11 @@ namespace Senai.Gufi.WebApi.Repositories
             Evento EventoBuscado = ctx.Evento.Find(id);
 
             EventoBuscado.IdEvento = EventoAtualizado.IdEvento;
+            EventoBuscado.NomeEvento = EventoAtualizado.NomeEvento;
+            EventoBuscado.DataEvento = EventoAtualizado.DataEvento;
+            EventoBuscado.Descricao = EventoAtualizado.Descricao;
+            EventoBuscado.AcessoLivre = EventoAtualizado.AcessoLivre;
+
 
             ctx.Evento.Update(EventoBuscado);
 

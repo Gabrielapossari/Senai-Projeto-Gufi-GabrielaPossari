@@ -156,11 +156,7 @@ namespace Senai.Gufi.WebApi.Domains
                     .HasMaxLength(255)
                     .IsUnicode(false);
 
-                entity.Property(e => e.Genero)
-                    .IsRequired()
-                    .HasMaxLength(255)
-                    .IsUnicode(false);
-
+              
                 entity.Property(e => e.NomeUsuario)
                     .IsRequired()
                     .HasMaxLength(255)

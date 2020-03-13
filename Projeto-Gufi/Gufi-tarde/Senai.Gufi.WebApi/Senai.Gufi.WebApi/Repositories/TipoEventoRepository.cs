@@ -15,6 +15,8 @@ namespace Senai.Gufi.WebApi.Repositories
         {
             TipoEvento tipoEventoBuscado = ctx.TipoEvento.Find(id);
 
+            tipoEventoBuscado.IdTipoEvento = tipoEventoAtualizado.IdTipoEvento;
+
             tipoEventoBuscado.TituloTipoEvento = tipoEventoAtualizado.TituloTipoEvento;
 
             ctx.TipoEvento.Update(tipoEventoBuscado);

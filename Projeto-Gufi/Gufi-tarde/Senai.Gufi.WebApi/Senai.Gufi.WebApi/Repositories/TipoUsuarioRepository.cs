@@ -17,6 +17,8 @@ namespace Senai.Gufi.WebApi.Repositories
 
             UsuarioTipoBuscado.IdTipoUsuario = usuariotipoAtualizado.IdTipoUsuario;
 
+            UsuarioTipoBuscado.TituloTipoUsuario = usuariotipoAtualizado.TituloTipoUsuario;
+
             ctx.TipoUsuario.Update(UsuarioTipoBuscado);
 
             ctx.SaveChanges();

@@ -37,10 +37,18 @@ namespace Senai.Gufi.WebApi.Repositories
             Usuario UsuarioBuscado = ctx.Usuario.Find(id);
 
             UsuarioBuscado.IdUsuario = UsuarioAtualizado.IdUsuario;
+            UsuarioBuscado.NomeUsuario = UsuarioAtualizado.NomeUsuario;
+            UsuarioBuscado.Email = UsuarioAtualizado.Email;
+            UsuarioBuscado.Senha = UsuarioAtualizado.Senha;
+            UsuarioBuscado.DataNascimento = UsuarioAtualizado.DataNascimento;
 
             ctx.Usuario.Update(UsuarioBuscado);
 
             ctx.SaveChanges();
+        }
+        public Usuario BuscarPorEmailSenha(string email,string senha)
+        {
+            return ctx.Usuario.FirstOrDefault(u => u.Email == email && u.Senha == senha);
         }
     }
 }

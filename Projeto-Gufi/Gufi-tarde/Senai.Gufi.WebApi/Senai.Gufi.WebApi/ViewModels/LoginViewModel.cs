@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Senai.Gufi.WebApi.Interfaces
+namespace Senai.Gufi.WebApi.ViewModels
 {
-    interface IInstituicao
+    public class LoginViewModel
     {
     }
 }
